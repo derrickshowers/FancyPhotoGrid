@@ -1,0 +1,107 @@
+[
+	{
+	    "id": "fall",
+	    "src": "pictures/picture01.jpg",
+	    "description": "Pumpkins and other assorted fall items",
+	    "location": "Pennsylvania",
+	    "date": 102013
+	},
+	{
+	    "id": "wine",
+	    "src": "pictures/picture02.jpg",
+	    "description": "Wine from Napa Valley - celebrating our anniversary",
+	    "location": "Pennsylvania",
+	    "date": 92013
+	},
+	{
+	    "id": "bicycles",
+	    "src": "pictures/picture03.jpg",
+	    "description": "While in Palo Alto, happened across a very interesting way of storing bicycles - cool!",
+	    "location": "California",
+	    "date": 72013
+	},
+	{
+	    "id": "airport",
+	    "src": "pictures/picture04.jpg",
+	    "description": "The airline of LUV, Southwest",
+	    "location": "California",
+	    "date": 72013
+	},
+	{
+	    "id": "stinking-rose",
+	    "src": "pictures/picture05.jpg",
+	    "description": "Dinner at the Stinking Rose in San Francisco. Garlic and Prime Rib. What more can one ask for?",
+	    "location": "California",
+	    "date": 72013
+	},
+	{
+	    "id": "napa-grapes",
+	    "src": "pictures/picture06.jpg",
+	    "description": "Grapes from which wine is born in Napa Valley",
+	    "location": "California",
+	    "date": 72013
+	},
+	{
+	    "id": "napa-tasting",
+	    "src": "pictures/picture07.jpg",
+	    "description": "Wine tasting in Napa Valley",
+	    "location": "California",
+	    "date": 72013
+	},
+	{
+	    "id": "beach",
+	    "src": "pictures/picture08.jpg",
+	    "description": "Spending time at the beach in California",
+	    "location": "California",
+	    "date": 72013
+	},
+	{
+	    "id": "lobster",
+	    "src": "pictures/picture09.jpg",
+	    "description": "Yummy dinner to celebrate our anniversary - filet, lobster, and asparagus",
+	    "location": "Pennsylvania",
+	    "date": 92013
+	},
+	{
+	    "id": "google",
+	    "src": "pictures/picture10.jpg",
+	    "description": "Google campus",
+	    "location": "California",
+	    "date": 72013
+	},
+	{
+	    "id": "wine-barrel",
+	    "src": "pictures/picture11.jpg",
+	    "description": "Wine being born",
+	    "location": "California",
+	    "date": 72013
+	},
+	{
+	    "id": "baybridge",
+	    "src": "pictures/picture12.jpg",
+	    "description": "Scenic view of San Francisco's Bay Bridge",
+	    "location": "California",
+	    "date": 72013
+	},
+	{
+	    "id": "philadelphia-city-hall",
+	    "src": "pictures/picture13.jpg",
+	    "description": "City Hall on a cold, winter's night",
+	    "location": "Pennsylvania",
+	    "date": 22013
+	},
+	{
+	    "id": "snow",
+	    "src": "pictures/picture14.jpg",
+	    "description": "Let it snow!",
+	    "location": "Pennsylvania",
+	    "date": 12013
+	},
+	{
+	    "id": "b2m",
+	    "src": "pictures/picture15.jpg",
+	    "description": "Boyz II Men concert at Epcot's Food and Wine Festival",
+	    "location": "Florida",
+	    "date": 102011
+	}
+]

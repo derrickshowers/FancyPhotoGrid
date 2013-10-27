@@ -1,0 +1,5 @@
+<ul id="photoGrid">
+	<li ng-repeat="photo in photos | filter:query">
+		<img ng-src="{{ photo.src }}">
+	</li>
+</ul>

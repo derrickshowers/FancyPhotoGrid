@@ -1,0 +1,15 @@
+/* app css stylesheet */
+
+header .topPadding30 {
+	padding-top: 30px;
+}
+
+#photoGrid {
+	list-style: none;
+}
+#photoGrid li {
+	width: 200px; height: 200px;
+	float: left;
+	margin: 1px;
+	overflow: hidden;
+}
